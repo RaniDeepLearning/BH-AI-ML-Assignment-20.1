@@ -20,6 +20,11 @@ The project uses publicly available data from the Pipeline and Hazardous Materia
 The dataset covers 2010–2025 and combines historical pipeline incident records with pipeline infrastructure, operator, and operational information. After data integration and preprocessing, the dataset contains 9,633 operator-year records and 89 variables. The modeling dataset includes 7,571 records and 86 features.
 The target variable indicates whether a pipeline operator experiences a significant incident in the following year. These data will be used for exploratory data analysis, feature engineering, and machine-learning model development to identify risk patterns and predict future significant incidents.
 
+link to Datasource: 
+
+https://www.phmsa.dot.gov/data-and-statistics/pipeline/source-data
+https://www.phmsa.dot.gov/data-and-statistics/pipeline/distribution-transmission-gathering-lng-and-liquid-accident-and-incident-data
+
 
 #### Methodology
 The project will follow a structured machine-learning workflow:
